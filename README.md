@@ -1,2 +1,1 @@
-# Triangle567sm
-https://app.travis-ci.com/SANIKA1809/Triangle567sm.svg?branch=main
+[![build status of master](https://travis-ci.org/SANIKA1809/Triangle567sm.svg?branch=master)](https://travis-ci.org/SANIKA1809/Triangle567sm)
